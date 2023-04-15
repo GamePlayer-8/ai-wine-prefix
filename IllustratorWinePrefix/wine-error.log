@@ -1,0 +1,41 @@
+002c:fixme:actctx:parse_depend_manifests Could not find dependent assembly L"Microsoft.Windows.Common-Controls" (6.0.0.0)
+0048:fixme:actctx:parse_depend_manifests Could not find dependent assembly L"Microsoft.Windows.Common-Controls" (6.0.0.0)
+0050:fixme:actctx:parse_depend_manifests Could not find dependent assembly L"Microsoft.Windows.Common-Controls" (6.0.0.0)
+0050:err:ole:StdMarshalImpl_MarshalInterface Failed to create ifstub, hr 0x80004002
+0050:err:ole:CoMarshalInterface Failed to marshal the interface {6d5140c1-7436-11ce-8034-00aa006009fa}, hr 0x80004002
+0050:err:ole:apartment_get_local_server_stream Failed: 0x80004002
+0050:err:ole:start_rpcss Failed to open RpcSs service
+0048:err:ole:StdMarshalImpl_MarshalInterface Failed to create ifstub, hr 0x80004002
+0048:err:ole:CoMarshalInterface Failed to marshal the interface {6d5140c1-7436-11ce-8034-00aa006009fa}, hr 0x80004002
+0048:err:ole:apartment_get_local_server_stream Failed: 0x80004002
+0048:fixme:imm:ImeSetActiveContext (000000000001002E, 0): stub
+0048:fixme:imm:ImmReleaseContext (0000000000010020, 000000000001002E): stub
+002c:fixme:imm:ImeSetActiveContext (000000000001004A, 1): stub
+002c:fixme:imm:ImmReleaseContext (0000000000010048, 000000000001004A): stub
+0098:fixme:file:NtLockFile I/O completion on lock not implemented yet
+0098:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0098:err:mscoree:LoadLibraryShim error reading registry key for installroot
+0098:err:mscoree:LoadLibraryShim error reading registry key for installroot
+0098:err:mscoree:LoadLibraryShim error reading registry key for installroot
+0098:err:mscoree:LoadLibraryShim error reading registry key for installroot
+00a0:fixme:file:NtLockFile I/O completion on lock not implemented yet
+00a0:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+00a0:err:mscoree:LoadLibraryShim error reading registry key for installroot
+00a0:err:mscoree:LoadLibraryShim error reading registry key for installroot
+00a0:err:mscoree:LoadLibraryShim error reading registry key for installroot
+00a0:err:mscoree:LoadLibraryShim error reading registry key for installroot
+00b0:fixme:imm:ImeSetActiveContext (000000000001009A, 1): stub
+00b0:fixme:imm:ImmReleaseContext (0000000000020092, 000000000001009A): stub
+00a0:fixme:msi:internal_ui_handler internal UI not implemented for message 0x0b000000 (UI level = 5)
+00a0:fixme:msi:internal_ui_handler internal UI not implemented for message 0x0b000000 (UI level = 5)
+0098:fixme:msi:internal_ui_handler internal UI not implemented for message 0x0b000000 (UI level = 1)
+0098:fixme:msi:internal_ui_handler internal UI not implemented for message 0x0b000000 (UI level = 1)
+010c:fixme:msg:pack_message msg 14 (WM_ERASEBKGND) not supported yet
+013c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+wine: configuration in L"/home/gameplayer/.illustratorCC17/prefix" has been updated.
+013c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+013c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+013c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+0178:fixme:imm:ImeSetActiveContext (0000000000040050, 1): stub
+0178:fixme:imm:ImmReleaseContext (000000000004004C, 0000000000040050): stub
+===============| IllustratorCC17 |===============
